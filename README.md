@@ -1,6 +1,5 @@
 # Ujian Tengah Semester
 Mata Kuliah Praktikum Sistem Operasi Kelas F 2023-2
-
 <br>Nama: Nazwa Revalina Azzahra Djuarsah
 <br>NIM: 1227050104
 <br>Tugas: Membuat Program Penjadwalan CPU dengan Bahasa Java
